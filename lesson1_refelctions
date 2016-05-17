@@ -9,3 +9,13 @@ Ans: Easy access to history makes user of the team or community to see what
 advancement has been done in the projec,they can also learn what were the features
 add & bugs removed from the project, so that they can further devlop the
 project
+
+Q3.What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google Docs 
+does?
+Ans: Git can be used for version controlling of source codes ,txt files etc.Most of 
+the times git is used for version controlling of code ,in which commits must be made 
+for a particular logical change or addition to the main code ,so manuall committing is 
+more suitable than automatic committing for git.Google docs deal with txt files which 
+requires automatic committing to make sure that each and every word add automatically 
+saves to the file automatically. 
