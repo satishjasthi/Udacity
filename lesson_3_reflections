@@ -1,3 +1,10 @@
-When would you want to use a remote repository rather than keeping all your work local?
-It is apropriate to create a remote repository to collaborate the project with
+Q1.When would you want to use a remote repository rather than keeping all your work local?
+Ans:It is apropriate to create a remote repository to collaborate the project with
 the team or community.
+
+Q2.Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+Ans:It might save the data, i.e, if unauthorized person has access to github repository & 
+if he delets all the data in the github repository,if git automatically updates local repo
+sitory w.r.t remote repository(here it is git repo),then all the data in the local repo will
+aslo be deleted.
