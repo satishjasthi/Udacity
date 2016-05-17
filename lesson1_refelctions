@@ -1,0 +1,11 @@
+Q1.How did viewing a diff between two versions of a file help you see the bug that 
+was introduced
+Ans:Instead of viewing through the entire file for changes, diff command directly 
+gives us the changes between two versions.
+
+Q2.How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+Ans: Easy access to history makes user of the team or community to see what 
+advancement has been done in the projec,they can also learn what were the features
+add & bugs removed from the project, so that they can further devlop the
+project
